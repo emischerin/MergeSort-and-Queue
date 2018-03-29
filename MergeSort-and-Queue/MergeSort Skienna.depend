@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522344338 source:c:\users\egor\desktop\mergesort skienna\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1522348344 c:\users\egor\desktop\mergesort skienna\queue.h
+	<stdlib.h>
+
